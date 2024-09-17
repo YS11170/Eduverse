@@ -3,9 +3,9 @@ import './Programs.css'
 import program_1 from '../../assets/program_1.jpg'
 import program_2 from '../../assets/program_2.jpg'
 import program_3 from '../../assets/program_3.jpeg'
-import Program_icon_1 from '../../assets/Program_icon_1.png'
-import Program_icon_2 from '../../assets/Program_icon_2.png'
-import Program_icon_3 from '../../assets/Program_icon_3.png'
+import Program_icon_1 from '../../assets/program_icon_1.png'
+import Program_icon_2 from '../../assets/program_icon_2.png'
+import Program_icon_3 from '../../assets/program_icon_3.png'
 
 
 const Programs = () => {
