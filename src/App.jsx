@@ -21,7 +21,7 @@ const [playState, setPlayState] = useState(false);
       <Hero/>
       <div className="container">
         <Title subTitle='OUR PROGRAM' title='What We Offer'/>
-        <Programs/>
+        {/* <Programs/> */}
         <About setPlayState={setPlayState}/>
         <Title subTitle='Gallery' title='Campus Photos'/>
         <Campus />
