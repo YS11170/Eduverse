@@ -50,7 +50,7 @@ const Contact = () => {
       </div>
       <div className="contact-col">
         <form onSubmit={onSubmit}>
-            <label>YOur name</label>
+            <label>Your name</label>
             <input type="text" name="name" placeholder='Enter your name' required />
             <label>Phone Number </label>
             <input type="tel" name="phone" placeholder='Enter your mobile number' required/>
